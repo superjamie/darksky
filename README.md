@@ -1,5 +1,7 @@
 # Dark Sky
 
+![](darksky.png)
+
 This is a port of the original Dark Sky by Ben "Bent" Ferguson:
 
 * https://barelyconsciousgames.itch.io/dark-sky
